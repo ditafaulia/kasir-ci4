@@ -1,0 +1,170 @@
+INFO - 2024-02-23 00:23:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 00:23:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 00:23:43 --> Cart Class Initialized
+INFO - 2024-02-23 00:23:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 00:23:54 --> Cart Class Initialized
+ERROR - 2024-02-23 00:23:54 --> An invalid name was submitted as the product name:  The name can only contain alpha-numeric characters, dashes, underscores, colons, and spaces
+INFO - 2024-02-23 00:23:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 00:23:54 --> Cart Class Initialized
+INFO - 2024-02-23 00:24:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 00:24:55 --> Cart Class Initialized
+INFO - 2024-02-23 00:26:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 00:26:58 --> Cart Class Initialized
+INFO - 2024-02-23 00:27:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 00:27:55 --> Cart Class Initialized
+INFO - 2024-02-23 00:28:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 00:28:02 --> Cart Class Initialized
+INFO - 2024-02-23 00:28:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 00:28:02 --> Cart Class Initialized
+INFO - 2024-02-23 00:28:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 00:28:15 --> Cart Class Initialized
+INFO - 2024-02-23 00:28:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 00:28:15 --> Cart Class Initialized
+INFO - 2024-02-23 00:30:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 00:30:06 --> Cart Class Initialized
+INFO - 2024-02-23 00:30:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 00:30:43 --> Cart Class Initialized
+INFO - 2024-02-23 00:30:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 00:30:53 --> Cart Class Initialized
+INFO - 2024-02-23 00:30:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 00:30:53 --> Cart Class Initialized
+INFO - 2024-02-23 00:31:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 00:31:58 --> Cart Class Initialized
+INFO - 2024-02-23 00:34:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 00:34:38 --> Cart Class Initialized
+INFO - 2024-02-23 00:34:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 00:34:45 --> Cart Class Initialized
+INFO - 2024-02-23 00:34:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 00:34:45 --> Cart Class Initialized
+INFO - 2024-02-23 00:35:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 00:35:57 --> Cart Class Initialized
+CRITICAL - 2024-02-23 00:35:57 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "jual.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('jual.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('jual', [], true)
+ 3 APPPATH\Controllers\Penjualan.php(25): view('jual', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Penjualan->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-23 00:44:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 00:44:17 --> Cart Class Initialized
+CRITICAL - 2024-02-23 00:44:17 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "jual.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('jual.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('jual', [], true)
+ 3 APPPATH\Controllers\Penjualan.php(25): view('jual', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Penjualan->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-23 00:44:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 00:44:50 --> Cart Class Initialized
+INFO - 2024-02-23 00:51:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 00:51:48 --> Cart Class Initialized
+INFO - 2024-02-23 00:55:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 00:55:20 --> Cart Class Initialized
+CRITICAL - 2024-02-23 00:55:20 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "jual.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('jual.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('jual', [], true)
+ 3 APPPATH\Controllers\Penjualan.php(25): view('jual', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Penjualan->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-23 00:59:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 00:59:05 --> Cart Class Initialized
+INFO - 2024-02-23 01:01:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 01:01:01 --> Cart Class Initialized
+INFO - 2024-02-23 01:02:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 01:02:45 --> Cart Class Initialized
+INFO - 2024-02-23 01:03:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 01:03:15 --> Cart Class Initialized
+INFO - 2024-02-23 01:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 01:19:00 --> Cart Class Initialized
+INFO - 2024-02-23 01:20:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 01:20:51 --> Cart Class Initialized
+ERROR - 2024-02-23 01:20:51 --> An invalid name was submitted as the product name:  The name can only contain alpha-numeric characters, dashes, underscores, colons, and spaces
+INFO - 2024-02-23 01:20:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 01:20:51 --> Cart Class Initialized
+INFO - 2024-02-23 01:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 01:21:00 --> Cart Class Initialized
+ERROR - 2024-02-23 01:21:00 --> An invalid name was submitted as the product name:  The name can only contain alpha-numeric characters, dashes, underscores, colons, and spaces
+INFO - 2024-02-23 01:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 01:21:00 --> Cart Class Initialized
+INFO - 2024-02-23 01:22:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 01:22:02 --> Cart Class Initialized
+INFO - 2024-02-23 01:22:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 01:22:06 --> Cart Class Initialized
+ERROR - 2024-02-23 01:22:06 --> An invalid name was submitted as the product name:  The name can only contain alpha-numeric characters, dashes, underscores, colons, and spaces
+INFO - 2024-02-23 01:22:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 01:22:06 --> Cart Class Initialized
+INFO - 2024-02-23 01:23:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 01:23:55 --> Cart Class Initialized
+INFO - 2024-02-23 01:24:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 01:24:02 --> Cart Class Initialized
+INFO - 2024-02-23 01:24:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 01:24:02 --> Cart Class Initialized
+INFO - 2024-02-23 01:24:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 01:24:39 --> Cart Class Initialized
+INFO - 2024-02-23 01:24:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 01:24:39 --> Cart Class Initialized
+INFO - 2024-02-23 01:25:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 01:25:59 --> Cart Class Initialized
+INFO - 2024-02-23 01:26:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 01:26:08 --> Cart Class Initialized
+INFO - 2024-02-23 01:26:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 01:26:08 --> Cart Class Initialized
+INFO - 2024-02-23 01:28:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 01:28:15 --> Cart Class Initialized
+INFO - 2024-02-23 01:28:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 01:28:29 --> Cart Class Initialized
+INFO - 2024-02-23 01:28:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 01:28:29 --> Cart Class Initialized
+INFO - 2024-02-23 04:45:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 04:45:40 --> Cart Class Initialized
+INFO - 2024-02-23 04:45:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 04:45:47 --> Cart Class Initialized
+INFO - 2024-02-23 04:45:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 04:45:47 --> Cart Class Initialized
+INFO - 2024-02-23 04:54:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 04:54:50 --> Cart Class Initialized
+INFO - 2024-02-23 04:54:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 04:54:50 --> Cart Class Initialized
+INFO - 2024-02-23 04:54:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 04:54:50 --> Cart Class Initialized
+INFO - 2024-02-23 05:12:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 05:12:00 --> Cart Class Initialized
+INFO - 2024-02-23 05:12:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 05:12:00 --> Cart Class Initialized
+INFO - 2024-02-23 05:15:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 05:15:44 --> Cart Class Initialized
+INFO - 2024-02-23 05:23:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 05:23:07 --> Cart Class Initialized
+INFO - 2024-02-23 05:25:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 05:25:05 --> Cart Class Initialized
+INFO - 2024-02-23 05:32:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 05:32:30 --> Cart Class Initialized
+INFO - 2024-02-23 05:32:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 05:32:36 --> Cart Class Initialized
+INFO - 2024-02-23 05:32:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 05:32:36 --> Cart Class Initialized
+INFO - 2024-02-23 05:34:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 05:34:50 --> Cart Class Initialized
+INFO - 2024-02-23 05:51:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 05:51:26 --> Cart Class Initialized
+INFO - 2024-02-23 05:52:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 05:52:02 --> Cart Class Initialized
+INFO - 2024-02-23 05:58:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 05:58:38 --> Cart Class Initialized
+INFO - 2024-02-23 06:02:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 06:02:00 --> Cart Class Initialized
+INFO - 2024-02-23 06:02:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 06:02:18 --> Cart Class Initialized
+INFO - 2024-02-23 06:03:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 06:03:02 --> Cart Class Initialized
+INFO - 2024-02-23 06:04:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 06:04:47 --> Cart Class Initialized
+INFO - 2024-02-23 06:05:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-23 06:05:48 --> Cart Class Initialized

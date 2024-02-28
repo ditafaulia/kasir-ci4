@@ -1,0 +1,213 @@
+INFO - 2024-02-28 05:01:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-28 05:01:51 --> ErrorException: Undefined variable $grafik
+in APPPATH\Views\v_Admin.php on line 107.
+ 1 APPPATH\Views\v_Admin.php(107): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $grafik', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_Admin.php', 107)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_Admin.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_admin', [], true)
+ 5 APPPATH\Views\v_template.php(226): view('v_admin')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Admin.php(19): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-28 05:01:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-28 05:01:52 --> ErrorException: Undefined variable $grafik
+in APPPATH\Views\v_Admin.php on line 107.
+ 1 APPPATH\Views\v_Admin.php(107): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $grafik', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_Admin.php', 107)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_Admin.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_admin', [], true)
+ 5 APPPATH\Views\v_template.php(226): view('v_admin')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Admin.php(19): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-28 05:08:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-28 05:08:23 --> ErrorException: Undefined variable $grafik
+in APPPATH\Views\v_Admin.php on line 107.
+ 1 APPPATH\Views\v_Admin.php(107): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $grafik', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_Admin.php', 107)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_Admin.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_admin', [], true)
+ 5 APPPATH\Views\v_template.php(226): view('v_admin')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Admin.php(19): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-28 05:09:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-28 05:09:58 --> ErrorException: Undefined variable $tgl
+in APPPATH\Views\v_Admin.php on line 114.
+ 1 APPPATH\Views\v_Admin.php(114): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $tgl', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_Admin.php', 114)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_Admin.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_admin', [], true)
+ 5 APPPATH\Views\v_template.php(226): view('v_admin')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Admin.php(19): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-28 05:10:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-28 05:10:20 --> ArgumentCountError: json_encode() expects at least 1 argument, 0 given
+in APPPATH\Views\v_Admin.php on line 114.
+ 1 APPPATH\Views\v_Admin.php(114): json_encode()
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_Admin.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_admin', [], true)
+ 5 APPPATH\Views\v_template.php(226): view('v_admin')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Admin.php(19): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-28 05:11:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 05:16:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 05:25:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 05:26:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 05:31:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-28 05:31:03 --> ErrorException: Undefined variable $grafik
+in APPPATH\Views\v_Admin.php on line 107.
+ 1 APPPATH\Views\v_Admin.php(107): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $grafik', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_Admin.php', 107)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_Admin.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_admin', [], true)
+ 5 APPPATH\Views\v_template.php(226): view('v_admin')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Admin.php(19): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-28 05:31:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-28 05:31:53 --> ErrorException: Undefined variable $grafik
+in APPPATH\Views\v_Admin.php on line 107.
+ 1 APPPATH\Views\v_Admin.php(107): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $grafik', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_Admin.php', 107)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_Admin.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_admin', [], true)
+ 5 APPPATH\Views\v_template.php(226): view('v_admin')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Admin.php(19): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-28 05:31:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-28 05:31:55 --> ErrorException: Undefined variable $grafik
+in APPPATH\Views\v_Admin.php on line 107.
+ 1 APPPATH\Views\v_Admin.php(107): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $grafik', 'C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_Admin.php', 107)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_Admin.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_admin', [], true)
+ 5 APPPATH\Views\v_template.php(226): view('v_admin')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-ci4\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Admin.php(19): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-28 05:32:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:14:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:15:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:15:55 --> Cart Class Initialized
+INFO - 2024-02-28 07:16:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:16:07 --> Cart Class Initialized
+INFO - 2024-02-28 07:16:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:16:07 --> Cart Class Initialized
+INFO - 2024-02-28 07:18:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:18:46 --> Cart Class Initialized
+INFO - 2024-02-28 07:22:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:22:08 --> Cart Class Initialized
+CRITICAL - 2024-02-28 07:22:11 --> ArgumentCountError: Too few arguments to function App\Controllers\Penjualan::RemoveItemCart(), 0 passed in C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\Penjualan.php on line 79.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Penjualan->RemoveItemCart()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-28 07:25:37 --> ArgumentCountError: Too few arguments to function App\Controllers\Penjualan::RemoveItemCart(), 0 passed in C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\Penjualan.php on line 79.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Penjualan->RemoveItemCart()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-28 07:25:38 --> ArgumentCountError: Too few arguments to function App\Controllers\Penjualan::RemoveItemCart(), 0 passed in C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\Penjualan.php on line 79.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Penjualan->RemoveItemCart()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-28 07:26:14 --> ArgumentCountError: Too few arguments to function App\Controllers\Penjualan::RemoveItemCart(), 0 passed in C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\Penjualan.php on line 79.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Penjualan->RemoveItemCart()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-28 07:26:16 --> ArgumentCountError: Too few arguments to function App\Controllers\Penjualan::RemoveItemCart(), 0 passed in C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\Penjualan.php on line 79.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Penjualan->RemoveItemCart()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-28 07:28:01 --> ArgumentCountError: Too few arguments to function App\Controllers\Penjualan::RemoveItemCart(), 0 passed in C:\xampp\htdocs\kasir-ci4\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\Penjualan.php on line 79.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Penjualan->RemoveItemCart()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-02-28 07:28:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:28:02 --> Cart Class Initialized
+INFO - 2024-02-28 07:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:28:07 --> Cart Class Initialized
+INFO - 2024-02-28 07:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:28:07 --> Cart Class Initialized
+INFO - 2024-02-28 07:28:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:28:18 --> Cart Class Initialized
+INFO - 2024-02-28 07:35:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:35:35 --> Cart Class Initialized
+INFO - 2024-02-28 07:35:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:35:35 --> Cart Class Initialized
+INFO - 2024-02-28 07:35:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:35:45 --> Cart Class Initialized
+INFO - 2024-02-28 07:35:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:35:45 --> Cart Class Initialized
+INFO - 2024-02-28 07:35:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:35:58 --> Cart Class Initialized
+INFO - 2024-02-28 07:35:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:35:59 --> Cart Class Initialized
+INFO - 2024-02-28 07:36:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:36:03 --> Cart Class Initialized
+INFO - 2024-02-28 07:36:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:36:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:36:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:36:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:36:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:36:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:44:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:44:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:44:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:44:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-28 07:44:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
